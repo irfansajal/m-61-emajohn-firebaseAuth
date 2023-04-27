@@ -16,3 +16,10 @@ nav.header a{
 nav.header a:hover{
     color: orange;
 }
+.wel-email{
+    color: aquamarine;
+    margin-left: 10px;
+}
+.btn-signout{
+    margin-left: 10px;
+}
